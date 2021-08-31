@@ -1,2 +1,2 @@
 # Smart-Lamp
-Automated Lamp with ESP-01
+Automated Bulb with ESP-01
