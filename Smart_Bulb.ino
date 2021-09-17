@@ -26,7 +26,7 @@ void setup()
   Serial.begin(115200);
   Blynk.begin(auth, ssid, pass);
 
-  pinMode(relay, OUTPUT
+  pinMode(relay, OUTPUT);
 }
 
 void loop()
